@@ -3,7 +3,7 @@ const ffmpeg = require("ffmpeg-binaries");
 const opusscript = require("opusscript");
 const client = new Discord.Client();
 const fs = require("fs");
-const token = process.env.token;
+const token = "NzQ5NjQ3MDkxMjQwMDA5ODk4.X0vBQg.hTSrsg0t2OZPm8QRUFyWBaI4jI4";
 
 
 /*/ Start of loading events /*/
